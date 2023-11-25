@@ -1,0 +1,59 @@
+@import '../../sass/variables';
+
+header {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    font-size: 0.8rem;
+    nav {
+        
+        .nav-item {
+            margin-block: 1.2rem;
+        }
+        background: rgba(0, 0, 0, 0.01);
+        backdrop-filter: blur(7.5px);
+        text-transform: uppercase;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border: 1px solid map-get($map: $colors, $key: 'transparent-white');
+        border-radius: 1000px;
+        .nav-left {
+            margin-left: 2rem;
+            width: 15%;
+            justify-content: start;
+            ul {
+                display: flex;
+                justify-content: start;
+            }
+        }
+        .nav-center {
+            justify-content: center;
+            width: 40%;
+            ul {
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+            }
+        }
+        .nav-right {
+            margin-right: 0.6rem;
+            width: 15%;
+            justify-content: end;
+            ul {
+                display: flex;
+                justify-content: end;
+            }
+        }
+        .nav-btn {
+            padding-block: 0.7rem;
+            padding-inline: 1rem;
+            border: 1px solid map-get($map: $colors, $key: 'transparent-white');
+            border-radius: 2rem;
+        }
+        
+    }
+}

@@ -1,0 +1,33 @@
+@import '../../sass/variables';
+
+.hero-banner {
+    width: 80%;
+    height: 100svh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.video-gradient {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(180deg, rgb(15, 15, 15, 0.3) 0%, rgb(15, 15, 15, 1) 100%);
+    z-index: -1;
+}
+
+video {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -2;
+    opacity: 100%;
+}

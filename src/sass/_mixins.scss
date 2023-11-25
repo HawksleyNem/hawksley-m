@@ -1,0 +1,28 @@
+@mixin dflex($direction: row, $justify: start, $align: start) {
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+    align-items: $align;
+}
+
+@mixin dgrid($max_width: 180vh, $width: 80%, $margin: 5vh, $template: 42vh, $justify: center, $gap: 1.4vh) {
+    max-width: $max_width;
+    width: $width;
+    height: auto;
+    margin: $margin auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, $template);
+    justify-content: $justify;
+    grid-gap: $gap;
+}
+
+@mixin text_properties($family_type: 'Regular', $size: 1rem, $align: start, $transform: none) {
+    font: {
+        family: 'Brown_Pro_#{$family_type}';
+        size: $size;
+    };
+    text: {
+        align: $align;
+        transform: $transform;
+    }
+}

@@ -1,0 +1,102 @@
+@import './variables';
+
+::-webkit-scrollbar {
+    width: 0;
+  }
+
+@font-face {
+    font-family: 'SP_Basic';
+    src: url('../assets/fonts/Stretch_Pro/stretch-pro.basic.ttf');
+}
+
+@font-face {
+    font-family: 'SP_Regular';
+    src: url('../assets/fonts/Stretch_Pro/stretch-pro.regular.ttf');
+}
+
+@font-face {
+    font-family: 'R_Thin';
+    src: url('../assets/fonts/Roboto/Roboto-Thin.ttf');
+}
+
+* {
+    color: white;
+    font-family: 'R_Thin';
+    font-weight: 100;
+}
+
+body {
+    width: 100%;
+    background-color: map-get($map: $colors, $key: 'dark');
+}
+
+#root {
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: 'SP_Basic';
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 4rem;
+    font-family: 'SP_Basic';
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    font-size: 1rem;
+    font-family: 'R_Thin';
+    color: map-get($map: $colors, $key: 'dark-white');
+    line-height: 1.6rem;
+}
+
+.sp-regular {
+    font-family: 'SP_Regular';
+}
+
+
+// Divers assets
+
+.space-blur {
+    position: absolute;
+    flex-shrink: 0;
+    z-index: -1;
+}
+
+.blur-purple {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(98, 0, 255, 0.1) 0%, rgba(58, 69, 168, 0.00) 100%);
+}
+
+.blur-pink {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 0, 230, 0.1) 0%, rgba(101, 21, 93, 0.00) 100%);
+    
+}
+
+.blur-1 {
+    width: 40rem;
+    height: 35rem;
+    left: 10%;
+    top: 5%;
+    transform: rotate(12.041deg);
+    border-radius: 52rem;
+}
+
+.blur-2 {
+    width: 50rem;
+    height: 40rem;
+    left: 35%;
+    top: 8%;
+    transform: rotate(-19.401deg);
+    border-radius: 69rem;
+}
