@@ -48,12 +48,6 @@ header {
                 justify-content: end;
             }
         }
-        .nav-btn {
-            padding-block: 0.7rem;
-            padding-inline: 1rem;
-            border: 1px solid map-get($map: $colors, $key: 'transparent-white');
-            border-radius: 2rem;
-        }
         
     }
 }
