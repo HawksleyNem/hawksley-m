@@ -1,6 +1,6 @@
 {
   "index.css": {
-    "file": "assets/index-823e7d5a.css",
+    "file": "assets/index-4a7001bd.css",
     "src": "index.css"
   },
   "index.html": {
@@ -10,9 +10,9 @@
       "assets/Roboto-Thin-67248f7e.ttf"
     ],
     "css": [
-      "assets/index-823e7d5a.css"
+      "assets/index-4a7001bd.css"
     ],
-    "file": "assets/index-0b423643.js",
+    "file": "assets/index-be37017d.js",
     "isEntry": true,
     "src": "index.html"
   },
