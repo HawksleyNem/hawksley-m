@@ -19,6 +19,11 @@
     src: url('../assets/fonts/Roboto/Roboto-Thin.ttf');
 }
 
+@font-face {
+    font-family: 'R_Bold';
+    src: url('../assets/fonts/Roboto/Roboto-Bold.ttf');
+}
+
 * {
     color: white;
     font-family: 'R_Thin';
@@ -36,6 +41,7 @@ body {
 
 main {
     width: 100%;
+    height: 300svh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -54,6 +60,13 @@ h2 {
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 10vh;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-family: 'SP_Basic';
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .upper-title {

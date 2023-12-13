@@ -1,0 +1,117 @@
+[
+    {
+        "title": "Les trouvailles de Thaïs",
+        "image" : "lorem.png",
+        "tags": [
+            "Wordpress",
+            "Figma"
+        ],
+        "description": "Boutique de prêt à porter amiénoise."
+    },
+    {
+        "title": "French Doudou",
+        "tags": [
+            "Prestashop",
+            "JS"
+        ],
+        "description": "Boutique fictive de peluches."
+    },
+    {
+        "title": "FluXML",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "description": "Réseau d'actualité personnalisable."
+    },
+    {
+        "title": "Custom Icon",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "description": "Application de personnalisation des propriétés d'une icône."
+    },
+    {
+        "title": "Timer",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "description": "Application de compte à rebours."
+    },
+    {
+        "title": "Temperature converter",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "description": "Application de conversion de température."
+    },
+    {
+        "title": "Sakila",
+        "tags": [
+            "HTML",
+            "CSS",
+            "PHP"
+        ],
+        "description": "Répertoire de films et acteurs."
+    },
+    {
+        "title": "Bugdet étudiant",
+        "tags": [
+            "HTML",
+            "CSS",
+            "PHP"
+        ],
+        "description": "Application de gestion de BDD."
+    },
+    {
+        "title": "Gestion étudiant",
+        "tags": [
+            "HTML",
+            "Bootstrap",
+            "PHP"
+        ],
+        "description": "Application de gestion d'étudiants."
+    },
+    {
+        "title": "Savory Savers",
+        "tags": [
+            "HTML",
+            "Bootstrap",
+            "PHP"
+        ],
+        "description": "Application de gestion d'aliments."
+    },
+    {
+        "title": "FFSU",
+        "tags": [
+            "HTML",
+            "SCSS",
+            "PHP"
+        ],
+        "description": "Application de gestion pour la FFSU."
+    },
+    {
+        "title": "Bike Booker",
+        "tags": [
+            "HTML",
+            "Bootstrap",
+            "PHP"
+        ],
+        "description": "Site de réservation de vélo."
+    },
+    {
+        "title": "Rick & Morty",
+        "tags": [
+            "React",
+            "SCSS"
+        ],
+        "description": "Répertoire des personnages de Rick & Morty."
+    }
+]

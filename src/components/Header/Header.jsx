@@ -1,6 +1,5 @@
 import React from 'react'
 import './header.scss'
-import PrimaryButton from '../Buttons/PrimaryButton/PrimaryButton'
 
 export default function Header() {
   return (
@@ -21,7 +20,7 @@ export default function Header() {
         </div>
         <div className='nav-item nav-right'>
           <ul>
-            <li><PrimaryButton content='Me contacter'></PrimaryButton></li>
+            {/* <li><PrimaryButton content='Me contacter'></PrimaryButton></li> */}
           </ul>
         </div>
       </nav>

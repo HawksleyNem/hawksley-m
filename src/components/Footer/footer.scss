@@ -1,0 +1,16 @@
+@import '../../sass/variables';
+@import '../../sass/mixins';
+
+.footer {
+    &__social {
+        @include dflex($direction: row, $justify: start, $align: center);
+        height: 6rem;
+        padding-inline: 1.5rem;
+        border-block: 1px solid map-get($map: $colors, $key: 'transparent-white');
+        &__name {
+            font-family: 'SP_Basic';
+            font-size: 3rem;
+            text-transform: uppercase;
+        }
+    }
+}

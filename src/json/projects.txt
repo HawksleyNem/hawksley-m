@@ -1,0 +1,41 @@
+---------------------------DEV---------------------------
+
+--CMS--
+Les Trouvailles de Thaïs
+French Doudou
+
+--XML--
+FluxXML
+
+--Javascipt--
+Modification Icone (C:\Users\hawks\Développement\JavaScript\TD\source-etudiant2)
+Timer (C:\Users\hawks\Développement\JavaScript\TD\source-etudiant)
+Convertisseur température (C:\Users\hawks\Développement\JavaScript\TD\convertisseur - etudiant)
+
+--Python--
+Black Jack
+District Noir
+
+--PHP & SQL--
+Sakila
+Budget Etudiant
+Gestion étudiants
+Calendrier (A REBOSSER)
+
+
+---------------------------DESIGN---------------------------
+
+--Maquettes--
+Caramelerie
+COOP Architecture
+ESC Amiens
+Grimpabloc
+PrimeTime Store
+LSDLT
+
+--Adaptation--
+FFSG 2023
+PACHA
+
+--PAO--
+Pictogrammes
