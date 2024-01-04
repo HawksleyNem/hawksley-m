@@ -31,17 +31,22 @@
 }
 
 body {
+    min-height: 100vh;
     width: 100%;
+    // height: auto;
     background-color: map-get($map: $colors, $key: 'dark');
 }
 
 #root {
     width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 main {
     width: 100%;
-    height: 300svh;
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;

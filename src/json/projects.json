@@ -1,117 +1,155 @@
 [
     {
         "title": "Les trouvailles de Thaïs",
-        "image" : "lorem.png",
+        "image" : "src/assets/img/les-trouvailles-de-thais-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "Wordpress",
             "Figma"
         ],
-        "description": "Boutique de prêt à porter amiénoise."
+        "description": "Boutique de prêt à porter amiénoise.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "French Doudou",
+        "image" : "src/assets/img/",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "Prestashop",
             "JS"
         ],
-        "description": "Boutique fictive de peluches."
+        "description": "Boutique fictive de peluches.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "FluXML",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
-        "description": "Réseau d'actualité personnalisable."
+        "description": "Réseau d'actualité personnalisable.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Custom Icon",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
-        "description": "Application de personnalisation des propriétés d'une icône."
+        "description": "Application de personnalisation des propriétés d'une icône.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Timer",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
-        "description": "Application de compte à rebours."
+        "description": "Application de compte à rebours.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Temperature converter",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
-        "description": "Application de conversion de température."
+        "description": "Application de conversion de température.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Sakila",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "CSS",
             "PHP"
         ],
-        "description": "Répertoire de films et acteurs."
+        "description": "Répertoire de films et acteurs.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Bugdet étudiant",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "CSS",
             "PHP"
         ],
-        "description": "Application de gestion de BDD."
+        "description": "Application de gestion de BDD.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Gestion étudiant",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "Bootstrap",
             "PHP"
         ],
-        "description": "Application de gestion d'étudiants."
+        "description": "Application de gestion d'étudiants.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Savory Savers",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "Bootstrap",
             "PHP"
         ],
-        "description": "Application de gestion d'aliments."
+        "description": "Application de gestion d'aliments.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "FFSU",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "SCSS",
             "PHP"
         ],
-        "description": "Application de gestion pour la FFSU."
+        "description": "Application de gestion pour la FFSU.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Bike Booker",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
             "Bootstrap",
             "PHP"
         ],
-        "description": "Site de réservation de vélo."
+        "description": "Site de réservation de vélo.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Rick & Morty",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "Les trouvaille des Thaïs",
         "tags": [
             "React",
             "SCSS"
         ],
-        "description": "Répertoire des personnages de Rick & Morty."
+        "description": "Répertoire des personnages de Rick & Morty.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     }
 ]

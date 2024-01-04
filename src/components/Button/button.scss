@@ -1,0 +1,17 @@
+@import '../../sass/variables';
+@import '../../sass/mixins';
+
+.btn {
+    cursor: pointer;
+    border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+    text-transform: uppercase;
+    border-radius: 1000px;
+    padding-inline: 1.5em;
+    padding-block: 0.8em;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    color: map-get($map: $colors, $key: 'black');
+    background-color: map-get($map: $colors, $key: 'white')
+}

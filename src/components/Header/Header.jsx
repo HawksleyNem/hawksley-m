@@ -1,4 +1,5 @@
 import React from 'react'
+import Button from '../../components/Button/Button'
 import './header.scss'
 
 export default function Header() {
@@ -20,7 +21,7 @@ export default function Header() {
         </div>
         <div className='nav-item nav-right'>
           <ul>
-            {/* <li><PrimaryButton content='Me contacter'></PrimaryButton></li> */}
+            <li><Button content='Me contacter'></Button></li>
           </ul>
         </div>
       </nav>

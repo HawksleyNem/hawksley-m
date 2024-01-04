@@ -20,7 +20,7 @@ header {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border: 1px solid map-get($map: $colors, $key: 'transparent-white');
+        border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
         border-radius: 1000px;
         .nav-left {
             margin-left: 2rem;

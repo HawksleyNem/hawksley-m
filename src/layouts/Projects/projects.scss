@@ -4,9 +4,46 @@
 .projects-section {
     width: 80%;
     margin-top: 10rem;
-    height: 100svh;
+    height: auto;
 
     .projects-grid {
-        @include dgrid($max_width: 180vh, $width: 100%, $margin: 0, $template: 53vh, $justify: center, $gap: 3.5vh)
+        height: 100%;
+        @include dgrid($max_width: 180vh, $width: 100%, $margin: 0, $template: 53vh, $justify: center, $gap: 3.5vh);
+        .project {
+            border-radius: 15px;
+            border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+            overflow: hidden;
+            &__image {
+                height: 100%;
+                width: 100%;
+                object-fit: contain;
+            }
+            &__info {
+                text-align: center;
+                padding-inline: 2em;
+                padding-block: 1em;
+            }
+            &__tags {
+                @include dflex($direction: row, $justify: center, $align: center);
+                margin-block: 1em;
+            }
+            &__tag {
+                background-color: rgba(rgb(135, 64, 123), $alpha: 0.8);
+                border-radius: 1000px;
+                padding-inline: 0.8em;
+                padding-block: 0.1em;
+                &__text {
+                    font-family: 'R_Bold';
+                    font-size: 0.8em;
+                }
+            }
+            &__description {
+                color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.8);
+                margin-block: 1em;
+            }
+        }
+        .project__tag + .project__tag {
+            margin-left: 0.5em;
+        }
     }
 }
