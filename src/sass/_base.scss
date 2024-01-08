@@ -64,7 +64,14 @@ h2 {
     font-family: 'SP_Basic';
     text-transform: uppercase;
     text-align: center;
+}
+
+.section-title {
     margin-bottom: 10vh;
+    text-align: center;
+    h2 + pre {
+        margin-top: 3vh;
+    }
 }
 
 h3 {
@@ -124,4 +131,14 @@ p {
     top: 8%;
     transform: rotate(-19.401deg);
     border-radius: 69rem;
+}
+
+// COLORS
+
+.vs-blue {
+    color: map-get($map: $colors, $key: 'vs-blue');
+}
+
+.vs-gray {
+    color: map-get($map: $colors, $key: 'vs-gray');
 }

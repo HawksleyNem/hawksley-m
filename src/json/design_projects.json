@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Le Souffle de la Terre",
+        "image" : "src/assets/img/les-trouvailles-de-thais-preview.png",
+        "alt": "Le Souffle de la Terre",
+        "tags": [
+            "AdobeXD"
+        ],
+        "description": "Boutique de prêt à porter amiénoise.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    },
+    {
+        "title": "ESC Amiens",
+        "image" : "src/assets/img/french-doudou-preview.png",
+        "alt": "ESC Amiens",
+        "tags": [
+            "AdobeXD"
+        ],
+        "description": "Boutique fictive de peluches.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    },
+    {
+        "title": "Grimpabloc",
+        "image" : "src/assets/img/custom-icon-preview.png",
+        "alt": "Grimpabloc",
+        "tags": [
+            "AdobeXD"
+        ],
+        "description": "Application de personnalisation des propriétés d'une icône.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    },
+    {
+        "title": "COOP Architecture",
+        "image" : "src/assets/img/fluxml-preview.png",
+        "alt": "COOP Architecture",
+        "tags": [
+            "AdobeXD"
+        ],
+        "description": "Réseau d'actualité personnalisable.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    },
+    {
+        "title": "Caramelerie",
+        "image" : "src/assets/img/timer-js-preview.png",
+        "alt": "Caramelerie",
+        "tags": [
+            "AdobeXD"
+        ],
+        "description": "Application de compte à rebours.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    },
+    {
+        "title": "PrimeTime Store",
+        "image" : "src/assets/img/temperature-converter-preview.png",
+        "alt": "PrimeTime Store",
+        "tags": [
+            "AdobeXD"
+        ],
+        "description": "Application de conversion de température.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    }
+]

@@ -1,0 +1,5 @@
+-Rendre les couleurs des tags de projet dynamiques grâce à un switch case
+-Mettre les données correctes des projets
+-Ajouter une section profil
+-Rajouter les informations nécessaires dans le footer
+-Gérer toutes les redirections (Me contacter, Voir le projet, Sections Navbar)

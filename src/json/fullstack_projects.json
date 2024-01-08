@@ -12,7 +12,7 @@
     },
     {
         "title": "French Doudou",
-        "image" : "src/assets/img/",
+        "image" : "src/assets/img/french-doudou-preview.png",
         "alt": "Les trouvaille des Thaïs",
         "tags": [
             "Prestashop",
@@ -35,7 +35,7 @@
     },
     {
         "title": "Custom Icon",
-        "image" : "src/assets/img/fluxml-preview.png",
+        "image" : "src/assets/img/custom-icon-preview.png",
         "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
@@ -47,7 +47,7 @@
     },
     {
         "title": "Timer",
-        "image" : "src/assets/img/fluxml-preview.png",
+        "image" : "src/assets/img/timer-js-preview.png",
         "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",
@@ -59,7 +59,7 @@
     },
     {
         "title": "Temperature converter",
-        "image" : "src/assets/img/fluxml-preview.png",
+        "image" : "src/assets/img/temperature-converter-preview.png",
         "alt": "Les trouvaille des Thaïs",
         "tags": [
             "HTML",

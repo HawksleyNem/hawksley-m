@@ -5,11 +5,22 @@
     width: 80%;
     margin-top: 10rem;
     height: auto;
+    @include dflex($direction: column, $justify: center, $align: center);
+
+    .projects-container + .projects-container {
+        margin-top: 10vh;
+    }
+
+
+    .fullstack-project-title {
+        font-size: 1.5rem;
+    }
 
     .projects-grid {
         height: 100%;
         @include dgrid($max_width: 180vh, $width: 100%, $margin: 0, $template: 53vh, $justify: center, $gap: 3.5vh);
         .project {
+            max-height: 100vh;
             border-radius: 15px;
             border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
             overflow: hidden;
@@ -20,12 +31,13 @@
             }
             &__info {
                 text-align: center;
-                padding-inline: 2em;
-                padding-block: 1em;
+                padding-inline: 2rem;
+                padding-block: 2.5rem;
+                height: auto;
             }
             &__tags {
                 @include dflex($direction: row, $justify: center, $align: center);
-                margin-block: 1em;
+                margin-block: 1.5em;
             }
             &__tag {
                 background-color: rgba(rgb(135, 64, 123), $alpha: 0.8);
@@ -39,7 +51,7 @@
             }
             &__description {
                 color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.8);
-                margin-block: 1em;
+                margin-block: 1.5em;
             }
         }
         .project__tag + .project__tag {
