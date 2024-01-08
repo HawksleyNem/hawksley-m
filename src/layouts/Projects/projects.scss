@@ -8,7 +8,7 @@
     @include dflex($direction: column, $justify: center, $align: center);
 
     .projects-container + .projects-container {
-        margin-top: 10vh;
+        margin-top: 20vh;
     }
 
 

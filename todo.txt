@@ -3,3 +3,4 @@
 -Ajouter une section profil
 -Rajouter les informations nécessaires dans le footer
 -Gérer toutes les redirections (Me contacter, Voir le projet, Sections Navbar)
+-Modifier les propriétés des blur colorés et en mettre un peu partout

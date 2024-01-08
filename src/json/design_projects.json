@@ -1,62 +1,65 @@
 [
     {
         "title": "Le Souffle de la Terre",
-        "image" : "src/assets/img/les-trouvailles-de-thais-preview.png",
+        "image" : "src/assets/img/lsdlt-preview.png",
         "alt": "Le Souffle de la Terre",
         "tags": [
             "AdobeXD"
         ],
-        "description": "Boutique de prêt à porter amiénoise.",
+        "description": "Maquette pour le site Le Souffle de la Terre.",
         "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "ESC Amiens",
-        "image" : "src/assets/img/french-doudou-preview.png",
+        "image" : "src/assets/img/esc-amiens-preview.png",
         "alt": "ESC Amiens",
         "tags": [
-            "AdobeXD"
+            "AdobeXD",
+            "Illustrator"
         ],
-        "description": "Boutique fictive de peluches.",
+        "description": "Maquette pour le site de l'ESC d'Amiens.",
         "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Grimpabloc",
-        "image" : "src/assets/img/custom-icon-preview.png",
+        "image" : "src/assets/img/grimpabloc-preview.png",
         "alt": "Grimpabloc",
         "tags": [
             "AdobeXD"
         ],
-        "description": "Application de personnalisation des propriétés d'une icône.",
+        "description": "Maquette pour le site Grimpabloc.",
         "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "COOP Architecture",
-        "image" : "src/assets/img/fluxml-preview.png",
+        "image" : "src/assets/img/coop-architecture-preview.png",
         "alt": "COOP Architecture",
         "tags": [
             "AdobeXD"
         ],
-        "description": "Réseau d'actualité personnalisable.",
+        "description": "Maquette pour le site COOP Architecture.",
         "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "Caramelerie",
-        "image" : "src/assets/img/timer-js-preview.png",
+        "image" : "src/assets/img/caramelerie-preview.png",
         "alt": "Caramelerie",
         "tags": [
-            "AdobeXD"
+            "AdobeXD",
+            "Illustrator"
         ],
-        "description": "Application de compte à rebours.",
+        "description": "Maquette pour le site de la Caramelerie.",
         "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     },
     {
         "title": "PrimeTime Store",
-        "image" : "src/assets/img/temperature-converter-preview.png",
+        "image" : "src/assets/img/primetime-store-preview.png",
         "alt": "PrimeTime Store",
         "tags": [
-            "AdobeXD"
+            "AdobeXD",
+            "Illustrator"
         ],
-        "description": "Application de conversion de température.",
+        "description": "Maquette pour le site PrimeTime Store.",
         "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
     }
 ]

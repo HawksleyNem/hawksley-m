@@ -36,6 +36,7 @@ export default function Projects() {
 
           <div className='projects-container design-projects'>  
             <div className='section-title'>
+              <h2>Mes p<span className='sp-regular'>rr</span>ojets</h2>
               <h3>Design</h3>
             </div>
               <div className='projects-grid'>
