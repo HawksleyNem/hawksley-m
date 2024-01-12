@@ -9,11 +9,10 @@ header {
     font-size: 0.9rem;
     z-index: 99;
     nav {
-        
         .nav-item {
             margin-block: 1.2rem;
         }
-        background: rgba(0, 0, 0, 0.01);
+        background: rgba(0, 0, 0, 0.10);
         backdrop-filter: blur(7.5px);
         text-transform: uppercase;
         width: 80%;

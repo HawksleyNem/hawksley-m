@@ -16,12 +16,12 @@
 
 @font-face {
     font-family: 'R_Thin';
-    src: url('../assets/fonts/Roboto/Roboto-Thin.ttf');
+    src: url('../assets/fonts/Roboto/Roboto-Light.ttf');
 }
 
 @font-face {
     font-family: 'R_Bold';
-    src: url('../assets/fonts/Roboto/Roboto-Bold.ttf');
+    src: url('../assets/fonts/Roboto/Roboto-Medium.ttf');
 }
 
 * {
@@ -107,7 +107,7 @@ p {
 }
 
 .blur-purple {
-    background: radial-gradient(50% 50% at 50% 50%, rgba(98, 0, 255, 0.1) 0%, rgba(58, 69, 168, 0.00) 100%);
+    background: radial-gradient(50% 50% at 50% 50%, rgba(98, 0, 255, 0.102) 0%, rgba(58, 69, 168, 0.00) 100%);
 }
 
 .blur-pink {

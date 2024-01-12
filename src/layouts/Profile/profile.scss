@@ -1,7 +1,12 @@
 @import '../../sass/variables';
 
-// .profile-section {
-//     width: 80%;
-//     margin-top: 10rem;
-//     height: 100svh;
-// }
+.profile-section {
+    width: 80%;
+    margin-top: 10rem;
+    .me {
+        width: 25rem;
+        height: 38rem;
+        background-color: rgba($color: white, $alpha: 0.05);
+        box-shadow: 0 0 50px rgba(66,27,131,0.2);
+    }
+}

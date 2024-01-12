@@ -40,7 +40,8 @@
                 margin-block: 1.5em;
             }
             &__tag {
-                background-color: rgba(rgb(135, 64, 123), $alpha: 0.8);
+                background: rgb(116,24,62);
+                background: linear-gradient(145deg, rgba(116,24,62,0.8) 0%, rgba(66,27,131,0.8) 100%);
                 border-radius: 1000px;
                 padding-inline: 0.8em;
                 padding-block: 0.1em;

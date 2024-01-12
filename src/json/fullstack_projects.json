@@ -8,107 +8,95 @@
             "Figma"
         ],
         "description": "Boutique de prêt à porter amiénoise.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://les-trouvailles-de-thais.les-vielles-charrettes-tm.fr/boutique/"
     },
     {
         "title": "French Doudou",
         "image" : "src/assets/img/french-doudou-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "alt": "French Doudou",
         "tags": [
             "Prestashop",
             "JS"
         ],
         "description": "Boutique fictive de peluches.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": ""
     },
     {
         "title": "FluXML",
         "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "alt": "FluXML",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
         "description": "Réseau d'actualité personnalisable.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/OlivierFacelina/XML-Project"
     },
     {
         "title": "Custom Icon",
         "image" : "src/assets/img/custom-icon-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "alt": "Custom Icon",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
         "description": "Application de personnalisation des propriétés d'une icône.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/customizable_icon_js"
     },
     {
         "title": "Timer",
         "image" : "src/assets/img/timer-js-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "alt": "Timer",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
         "description": "Application de compte à rebours.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/timer_js"
     },
     {
         "title": "Temperature converter",
         "image" : "src/assets/img/temperature-converter-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "alt": "Temperature Converter",
         "tags": [
             "HTML",
             "CSS",
             "JS"
         ],
         "description": "Application de conversion de température.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/temperature-converter"
     },
     {
         "title": "Sakila",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "image" : "src/assets/img/sakila-preview.jpg",
+        "alt": "Sakila",
         "tags": [
             "HTML",
             "CSS",
             "PHP"
         ],
         "description": "Répertoire de films et acteurs.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/Sakila"
     },
     {
-        "title": "Bugdet étudiant",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "title": "Bugdet",
+        "image" : "src/assets/img/budget-preview.jpg",
+        "alt": "Budget",
         "tags": [
             "HTML",
             "CSS",
             "PHP"
         ],
         "description": "Application de gestion de BDD.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
-    },
-    {
-        "title": "Gestion étudiant",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
-        "tags": [
-            "HTML",
-            "Bootstrap",
-            "PHP"
-        ],
-        "description": "Application de gestion d'étudiants.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/budget"
     },
     {
         "title": "Savory Savers",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "image" : "src/assets/img/savory-savers-preview.png",
+        "alt": "Savory Savers",
         "tags": [
             "HTML",
             "Bootstrap",
@@ -119,37 +107,37 @@
     },
     {
         "title": "FFSU",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "image" : "src/assets/img/ffsu-preview.png",
+        "alt": "FFSU",
         "tags": [
             "HTML",
             "SCSS",
             "PHP"
         ],
         "description": "Application de gestion pour la FFSU.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": ""
     },
     {
         "title": "Bike Booker",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "image" : "src/assets/img/bike-booker-preview.png",
+        "alt": "Bike Booker",
         "tags": [
             "HTML",
             "Bootstrap",
             "PHP"
         ],
         "description": "Site de réservation de vélo.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/bike_rental"
     },
     {
         "title": "Rick & Morty",
-        "image" : "src/assets/img/fluxml-preview.png",
-        "alt": "Les trouvaille des Thaïs",
+        "image" : "src/assets/img/rick-and-morty-preview.png",
+        "alt": "Rick and Morty",
         "tags": [
             "React",
             "SCSS"
         ],
         "description": "Répertoire des personnages de Rick & Morty.",
-        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+        "href": "https://github.com/HawksleyNem/rick-and-morty"
     }
 ]
