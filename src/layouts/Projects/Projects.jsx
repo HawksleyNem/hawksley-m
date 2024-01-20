@@ -10,7 +10,7 @@ export default function Projects() {
         <section id='projects' className='projects-section'>
           <div className='projects-container fullstack-projects'>  
             <div className='section-title'>
-              <h2>Mes p<span className='sp-regular'>rr</span>ojets</h2>
+              <h2>P<span className='sp-regular'>rr</span>ojets</h2>
               <pre><code className='fullstack-project-title'><span className='vs-gray'>&lt;</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span>Fullstack<span className='vs-gray'>&lt;/</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span></code></pre>
             </div>
               <div className='projects-grid'>
@@ -36,7 +36,7 @@ export default function Projects() {
 
           <div className='projects-container design-projects'>  
             <div className='section-title'>
-              <h2>Mes p<span className='sp-regular'>rr</span>ojets</h2>
+              <h2>P<span className='sp-regular'>rr</span>ojets</h2>
               <h3>Design</h3>
             </div>
               <div className='projects-grid'>

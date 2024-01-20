@@ -6,7 +6,7 @@ export default function Profile() {
     <>
         <section className='profile-section'>
           <div className='section-title'>
-            <h2>Mon Pro<span className='sp-regular'>ff</span>il</h2>
+            <h2>Pro<span className='sp-regular'>ff</span>il</h2>
           </div>
             <div className='me'></div>
         </section>

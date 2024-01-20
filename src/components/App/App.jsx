@@ -7,6 +7,7 @@ import Footer from '../Footer'
 import HeroBanner from '../../layouts/HeroBanner'
 import Profile from '../../layouts/Profile'
 import Projects from '../../layouts/Projects'
+import Skills from '../../layouts/Skills'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <main>
         <HeroBanner></HeroBanner>
         <Profile></Profile>
+        <Skills></Skills>
         <Projects></Projects>
       </main>
       <Footer></Footer>

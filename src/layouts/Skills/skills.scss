@@ -1,0 +1,32 @@
+@import '../../sass/variables';
+@import '../../sass/mixins';
+
+.skills-section {
+    width: 80%;
+    margin-top: 10rem;
+    height: auto;
+    @include dflex($direction: column, $justify: center, $align: center);
+
+    .skills-list {
+        @include dflex($direction: row, $justify: start, $align: start);
+        width: 100%;
+    }
+
+    .skill-card {
+        @include dflex($direction: row, $justify: start, $align: center);
+        border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+        background-color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.05);
+        border-radius: 100px;
+        padding-inline: 2rem;
+        padding-block: 1rem;
+        min-width: 15rem;
+        img {
+            max-height: 2rem;
+            margin-right: 2rem;
+        }
+        p {
+            font-size: 1.2rem;
+        }
+    }
+
+}
