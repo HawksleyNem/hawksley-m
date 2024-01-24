@@ -8,18 +8,24 @@
     @include dflex($direction: column, $justify: center, $align: center);
 
     .skills-list {
-        @include dflex($direction: row, $justify: start, $align: start);
+        @include dgrid($max_width: 180vh, $width: 100%, $margin: 0, $template: 15.55%, $justify: start, $gap: 2vh);
+        width: 100%;
+        margin-bottom: 5vh;
+    }
+
+    .skill-title {
         width: 100%;
     }
 
     .skill-card {
         @include dflex($direction: row, $justify: start, $align: center);
-        border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+        border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.10);
         background-color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.05);
         border-radius: 100px;
         padding-inline: 2rem;
         padding-block: 1rem;
-        min-width: 15rem;
+        min-width: 15.55%;
+        min-height: 2rem;
         img {
             max-height: 2rem;
             margin-right: 2rem;
@@ -27,6 +33,13 @@
         p {
             font-size: 1.2rem;
         }
+    }
+
+    hr {
+        width: 100%;
+        border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.1);
+        margin-top: 1.5vh;
+        margin-bottom: 2.5vh;
     }
 
 }

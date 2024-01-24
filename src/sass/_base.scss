@@ -81,6 +81,13 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-size: 1.2rem;
+    font-family: 'R_Bold';
+    text-transform: uppercase;
+    color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.25);
+}
+
 .upper-title {
     font-size: 3rem;
     margin-bottom: 2vh;
@@ -116,8 +123,8 @@ p {
 }
 
 .blur-1 {
-    width: 40rem;
-    height: 35rem;
+    width: 41vw;
+    height: 36vw;
     left: 10%;
     top: 5%;
     transform: rotate(12.041deg);
@@ -125,8 +132,8 @@ p {
 }
 
 .blur-2 {
-    width: 50rem;
-    height: 40rem;
+    width: 50vw;
+    height: 40vw;
     left: 35%;
     top: 8%;
     transform: rotate(-19.401deg);

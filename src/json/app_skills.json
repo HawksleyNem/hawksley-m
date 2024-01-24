@@ -1,0 +1,26 @@
+[
+    {
+        "image": "./src/assets/img/logos/vscode.svg",
+        "name": "VS Code"
+    },
+    {
+        "image": "./src/assets/img/logos/eclipse.svg",
+        "name": "Eclipse IDE"
+    },
+    {
+        "image": "./src/assets/img/logos/docker.svg",
+        "name": "Docker"
+    },
+    {
+        "image": "./src/assets/img/logos/figma.svg",
+        "name": "Figma"
+    },
+    {
+        "image": "./src/assets/img/logos/adobexd.svg",
+        "name": "AdobeXD"
+    },
+    {
+        "image": "./src/assets/img/logos/capcut.svg",
+        "name": "CapCut"
+    }
+]

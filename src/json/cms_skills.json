@@ -1,0 +1,22 @@
+[
+    {
+        "image": "./src/assets/img/logos/wordpress.svg",
+        "name": "Wordpress"
+    },
+    {
+        "image": "./src/assets/img/logos/woo-comerce.svg",
+        "name": "WooComerce"
+    },
+    {
+        "image": "./src/assets/img/logos/elementor.svg",
+        "name": "Elementor"
+    },
+    {
+        "image": "./src/assets/img/logos/divi.svg",
+        "name": "Divi"
+    },
+    {
+        "image": "./src/assets/img/logos/shopify.svg",
+        "name": "Shopify"
+    }
+]

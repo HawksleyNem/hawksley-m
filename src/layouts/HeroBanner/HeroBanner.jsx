@@ -13,7 +13,7 @@ export default function HeroBanner() {
       <div className='space-blur blur-pink blur-2'></div>
       <p className='upper-title'>こんにちは、私の名前は</p>
       <h1>Hawksley Mouquet</h1>
-      <p>Je suis étudiant en 2e année de bachelor Web Design UI - UX & Développement Web<br />à La Manu - École supérieure des métiers du numérique</p>
+      <p>Je suis étudiant en 2e année de Bachelor Web Design UI - UX & Développement Web<br />à La Manu - École supérieure des métiers du numérique</p>
     </section>
   )
 }

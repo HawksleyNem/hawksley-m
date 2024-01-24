@@ -1,7 +1,7 @@
 [
     {
         "title": "FFSG",
-        "image" : "src/assets/img/ffsg-preview.png",
+        "image" : "src/assets/img/projects/ffsg-preview.png",
         "alt": "FFSG",
         "tags": [
             "AdobeXD"
@@ -11,7 +11,7 @@
     },
     {
         "title": "Central Ethnique",
-        "image" : "src/assets/img/central-ethnique-preview.jpg",
+        "image" : "src/assets/img/projects/central-ethnique-preview.jpg",
         "alt": "Central Ethnique",
         "tags": [
             "AdobeXD"
@@ -21,7 +21,7 @@
     },
     {
         "title": "PACHA",
-        "image" : "src/assets/img/pacha-preview.jpg",
+        "image" : "src/assets/img/projects/pacha-preview.jpg",
         "alt": "FFSG",
         "tags": [
             "AdobeXD"
@@ -31,7 +31,7 @@
     },
     {
         "title": "Le Souffle de la Terre",
-        "image" : "src/assets/img/lsdlt-preview.png",
+        "image" : "src/assets/img/projects/lsdlt-preview.png",
         "alt": "Le Souffle de la Terre",
         "tags": [
             "AdobeXD"
@@ -41,7 +41,7 @@
     },
     {
         "title": "ESC Amiens",
-        "image" : "src/assets/img/esc-amiens-preview.png",
+        "image" : "src/assets/img/projects/esc-amiens-preview.png",
         "alt": "ESC Amiens",
         "tags": [
             "AdobeXD",
@@ -52,7 +52,7 @@
     },
     {
         "title": "Grimpabloc",
-        "image" : "src/assets/img/grimpabloc-preview.png",
+        "image" : "src/assets/img/projects/grimpabloc-preview.png",
         "alt": "Grimpabloc",
         "tags": [
             "AdobeXD"
@@ -62,7 +62,7 @@
     },
     {
         "title": "COOP Architecture",
-        "image" : "src/assets/img/coop-architecture-preview.png",
+        "image" : "src/assets/img/projects/coop-architecture-preview.png",
         "alt": "COOP Architecture",
         "tags": [
             "AdobeXD"
@@ -72,7 +72,7 @@
     },
     {
         "title": "Caramelerie",
-        "image" : "src/assets/img/caramelerie-preview.png",
+        "image" : "src/assets/img/projects/caramelerie-preview.png",
         "alt": "Caramelerie",
         "tags": [
             "AdobeXD",
@@ -83,7 +83,7 @@
     },
     {
         "title": "PrimeTime Store",
-        "image" : "src/assets/img/primetime-store-preview.png",
+        "image" : "src/assets/img/projects/primetime-store-preview.png",
         "alt": "PrimeTime Store",
         "tags": [
             "AdobeXD",

@@ -1,11 +1,21 @@
 @import '../../sass/variables';
+@import '../../sass/mixins';
 
 .profile-section {
     width: 80%;
     margin-top: 10rem;
+    .profile-content {
+        @include dflex($direction: row, $justify: start, $align: start);
+        p {
+            font-size: 1.2rem;
+            line-height: 3.6vh;
+        }
+    }
+
     .me {
-        width: 25rem;
+        min-width: 25rem;
         height: 38rem;
+        margin-right: 4vw;
         background-color: rgba($color: white, $alpha: 0.05);
         box-shadow: 0 0 50px rgba(66,27,131,0.2);
     }

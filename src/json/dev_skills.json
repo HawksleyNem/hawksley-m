@@ -1,0 +1,54 @@
+[
+    {
+        "image": "./src/assets/img/logos/html.svg",
+        "name": "HTML"
+    },
+    {
+        "image": "./src/assets/img/logos/css.svg",
+        "name": "CSS"
+    },
+    {
+        "image": "./src/assets/img/logos/scss.svg",
+        "name": "SCSS"
+    },
+    {
+        "image": "./src/assets/img/logos/bootstrap.svg",
+        "name": "Bootstrap"
+    },
+    {
+        "image": "./src/assets/img/logos/javascript.svg",
+        "name": "JavaScript"
+    },
+    {
+        "image": "./src/assets/img/logos/vitejs.svg",
+        "name": "ViteJS"
+    },
+    {
+        "image": "./src/assets/img/logos/react.svg",
+        "name": "ReactJS"
+    },
+    {
+        "image": "./src/assets/img/logos/vuejs.svg",
+        "name": "VueJS"
+    },
+    {
+        "image": "./src/assets/img/logos/php.svg",
+        "name": "PHP"
+    },
+    {
+        "image": "./src/assets/img/logos/symfony.svg",
+        "name": "Symfony"
+    },
+    {
+        "image": "./src/assets/img/logos/python.svg",
+        "name": "Python"
+    },
+    {
+        "image": "./src/assets/img/logos/java.svg",
+        "name": "Java"
+    },
+    {
+        "image": "./src/assets/img/logos/mysql.svg",
+        "name": "MySQL"
+    }
+]

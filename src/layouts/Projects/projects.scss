@@ -5,6 +5,7 @@
     width: 80%;
     margin-top: 10rem;
     height: auto;
+    margin-bottom: 10rem;
     @include dflex($direction: column, $justify: center, $align: center);
 
     .projects-container + .projects-container {
