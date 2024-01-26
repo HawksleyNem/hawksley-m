@@ -8,6 +8,7 @@ import HeroBanner from '../../layouts/HeroBanner'
 import Profile from '../../layouts/Profile'
 import Projects from '../../layouts/Projects'
 import Skills from '../../layouts/Skills'
+import Career from '../../layouts/Career'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <main>
         <HeroBanner></HeroBanner>
         <Profile></Profile>
+        <Career></Career>
         <Skills></Skills>
         <Projects></Projects>
       </main>

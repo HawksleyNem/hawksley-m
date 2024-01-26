@@ -8,10 +8,6 @@
         "name": "Eclipse IDE"
     },
     {
-        "image": "./src/assets/img/logos/docker.svg",
-        "name": "Docker"
-    },
-    {
         "image": "./src/assets/img/logos/figma.svg",
         "name": "Figma"
     },
@@ -20,7 +16,7 @@
         "name": "AdobeXD"
     },
     {
-        "image": "./src/assets/img/logos/capcut.svg",
+        "image": "./src/assets/img/logos/capcut.png",
         "name": "CapCut"
     }
 ]

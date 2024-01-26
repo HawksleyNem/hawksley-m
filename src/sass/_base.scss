@@ -98,6 +98,7 @@ p {
     font-family: 'R_Thin';
     color: map-get($map: $colors, $key: 'dark-white');
     line-height: 1.6rem;
+    color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.85);
 }
 
 .sp-regular {

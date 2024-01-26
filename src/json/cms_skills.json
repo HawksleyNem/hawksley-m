@@ -4,19 +4,19 @@
         "name": "Wordpress"
     },
     {
-        "image": "./src/assets/img/logos/woo-comerce.svg",
+        "image": "./src/assets/img/logos/woo-commerce.svg",
         "name": "WooComerce"
     },
     {
-        "image": "./src/assets/img/logos/elementor.svg",
+        "image": "./src/assets/img/logos/elementor.png",
         "name": "Elementor"
     },
     {
-        "image": "./src/assets/img/logos/divi.svg",
+        "image": "./src/assets/img/logos/divi.png",
         "name": "Divi"
     },
     {
-        "image": "./src/assets/img/logos/shopify.svg",
-        "name": "Shopify"
+        "image": "./src/assets/img/logos/prestashop.svg",
+        "name": "Prestashop"
     }
 ]

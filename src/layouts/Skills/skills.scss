@@ -8,8 +8,12 @@
     @include dflex($direction: column, $justify: center, $align: center);
 
     .skills-list {
-        @include dgrid($max_width: 180vh, $width: 100%, $margin: 0, $template: 15.55%, $justify: start, $gap: 2vh);
+        height: 100%;
         width: 100%;
+        --auto-grid-min-size: 16rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+        grid-gap: 1rem;
         margin-bottom: 5vh;
     }
 
@@ -21,7 +25,7 @@
         @include dflex($direction: row, $justify: start, $align: center);
         border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.10);
         background-color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.05);
-        border-radius: 100px;
+        border-radius: 10px;
         padding-inline: 2rem;
         padding-block: 1rem;
         min-width: 15.55%;

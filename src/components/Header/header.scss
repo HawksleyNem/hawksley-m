@@ -22,8 +22,8 @@ header {
         border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
         border-radius: 1000px;
         .nav-left {
-            margin-left: 2rem;
-            width: 15%;
+            margin-left: 0.6rem;
+            min-width: 20%;
             justify-content: start;
             ul {
                 display: flex;
@@ -35,13 +35,16 @@ header {
             width: 40%;
             ul {
                 display: flex;
-                justify-content: space-between;
+                justify-content: center;
                 width: 100%;
+                li + li {
+                    margin-left: 2vw;
+                }
             }
         }
         .nav-right {
             margin-right: 0.6rem;
-            width: 15%;
+            min-width: 20%;
             justify-content: end;
             ul {
                 display: flex;

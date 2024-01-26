@@ -5,25 +5,27 @@
     width: 80%;
     margin-top: 10rem;
     height: auto;
-    margin-bottom: 10rem;
-    @include dflex($direction: column, $justify: center, $align: center);
+    margin-bottom: 25vh;
+    @include dflex($direction: column, $justify: center, $align: normal);
 
     .projects-container + .projects-container {
         margin-top: 20vh;
     }
 
-
-    .fullstack-project-title {
-        font-size: 1.5rem;
-    }
-
     .projects-grid {
         height: 100%;
-        @include dgrid($max_width: 180vh, $width: 100%, $margin: 0, $template: 53vh, $justify: center, $gap: 3.5vh);
+        width: 100%;
+        --auto-grid-min-size: 24rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+        grid-gap: 2rem;
+        margin-bottom: 5vh;
         .project {
             max-height: 100vh;
+            max-width: 500px;
             border-radius: 15px;
             border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+            background-color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.05);
             overflow: hidden;
             &__image {
                 height: 100%;

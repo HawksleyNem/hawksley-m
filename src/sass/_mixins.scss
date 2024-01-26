@@ -5,7 +5,7 @@
     align-items: $align;
 }
 
-@mixin dgrid($max_width: 180vh, $width: 80%, $margin: 0vh, $template: 42vh, $justify: center, $gap: 1.4vh) {
+@mixin dgrid($max_width: 350px, $width: 80%, $margin: 0vh, $template: 42vh, $justify: center, $gap: 1.4vh) {
     max-width: $max_width;
     width: $width;
     height: auto;

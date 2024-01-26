@@ -1,0 +1,45 @@
+@import '../../sass/variables';
+@import '../../sass/mixins';
+
+.career-section {
+    width: 80%;
+    margin-top: 10rem;
+    .career-content {
+        hr {
+            width: 100%;
+            border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.1);
+            margin-top: 1.5vh;
+            margin-bottom: 2.5vh;
+        }
+        --auto-grid-min-size: 34rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+        grid-gap: 2rem;
+    }
+
+    .career-card {
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.10);
+        background-color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.05);
+        border-radius: 10px;
+        padding-inline: 2rem;
+        padding-block: 1rem;
+        min-width: 15.55%;
+        min-height: 2rem;
+
+        &__title {
+            font-family: 'R_Bold';
+            font-size: 1.1em;
+            margin-bottom: 0.5rem;
+        }
+
+        &__desc, &__date {
+            color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.5);
+        }
+    }
+
+    .career-card + .career-card {
+        margin-top: 1em;
+    }
+}

@@ -8,10 +8,10 @@ export default function Projects() {
   return (
     <>
         <section id='projects' className='projects-section'>
-          <div className='projects-container fullstack-projects'>  
+          <div className='projects-container'>  
             <div className='section-title'>
               <h2>P<span className='sp-regular'>rr</span>ojets</h2>
-              <pre><code className='fullstack-project-title'><span className='vs-gray'>&lt;</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span>Fullstack<span className='vs-gray'>&lt;/</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span></code></pre>
+              {/* <pre><code className='fullstack-project-title'><span className='vs-gray'>&lt;</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span>Fullstack<span className='vs-gray'>&lt;/</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span></code></pre> */}
             </div>
               <div className='projects-grid'>
               {FullstackData.map(item => 
@@ -31,15 +31,6 @@ export default function Projects() {
                   </div>
                 </div>
               )}
-            </div>
-          </div>
-
-          <div className='projects-container design-projects'>  
-            <div className='section-title'>
-              <h2>P<span className='sp-regular'>rr</span>ojets</h2>
-              <h3>Design</h3>
-            </div>
-              <div className='projects-grid'>
               {DesignData.map(item => 
                 <div key={item.title} className='project'>
                   <div>

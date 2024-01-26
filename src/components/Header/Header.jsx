@@ -8,20 +8,20 @@ export default function Header() {
       <nav>
         <div className='nav-item nav-left'>
           <ul>
-            <li>いらっしゃいませ</li>
+            <li><li><a href="./src/assets/img/CV Hawksley MOUQUET.png" className='btn' download="CV Hawksley MOUQUET.png">Télécharger CV</a></li></li>
           </ul>
         </div>
         <div className='nav-item nav-center'>
           <ul>
-            <li><a href="#profile">Mon profil</a></li>
-            <li><a href="#skills">Mes compétences</a></li>
-            <li><a href="#career">Mon parcours</a></li>
-            <li><a href="#projects">Mes projets</a></li>
+            <li><a href="#profile">Profil</a></li>
+            <li><a href="#skills">Compétences</a></li>
+            <li><a href="#career">Parcours</a></li>
+            <li><a href="#projects">Projets</a></li>
           </ul>
         </div>
         <div className='nav-item nav-right'>
           <ul>
-            <li><Button content='Me contacter'></Button></li>
+            <li><a href="#contact" className='btn'>Me contacter</a></li>
           </ul>
         </div>
       </nav>
