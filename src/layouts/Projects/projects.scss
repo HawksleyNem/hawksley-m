@@ -62,4 +62,13 @@
             margin-left: 0.5em;
         }
     }
+
+    @media (max-width: 1000px) {
+        .projects-grid {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
 }

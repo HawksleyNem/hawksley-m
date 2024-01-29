@@ -9,14 +9,31 @@
         p {
             font-size: 1.2rem;
             line-height: 3.6vh;
+            margin-left: 4vw;
         }
     }
 
     .me {
         min-width: 25rem;
         height: 38rem;
-        margin-right: 4vw;
+        border-radius: 10px;
         background-color: rgba($color: white, $alpha: 0.05);
         box-shadow: 0 0 50px rgba(66,27,131,0.2);
+    }
+
+    .info {
+        p + p {
+            margin-top: 4vh;
+        }
+    }
+
+    @media (max-width: 1000px) {
+        .profile-content {
+            @include dflex($direction: column, $justify: start, $align: center);
+            p {
+                margin: 0;
+                margin-top: 10vh;
+            }
+        }
     }
 }

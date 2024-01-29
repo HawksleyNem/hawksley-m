@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Bike Booker",
+        "image" : "src/assets/img/projects/bike-booker-preview.png",
+        "alt": "Bike Booker",
+        "tags": [
+            "HTML",
+            "Bootstrap",
+            "PHP"
+        ],
+        "description": "Site de réservation de vélo.",
+        "href": "https://github.com/HawksleyNem/bike_rental"
+    },
+    {
+        "title": "FFSU",
+        "image" : "src/assets/img/projects/ffsu-preview.png",
+        "alt": "FFSU",
+        "tags": [
+            "HTML",
+            "SCSS",
+            "PHP"
+        ],
+        "description": "Application de gestion pour la FFSU.",
+        "href": ""
+    },
+    {
+        "title": "Savory Savers",
+        "image" : "src/assets/img/projects/savory-savers-preview.png",
+        "alt": "Savory Savers",
+        "tags": [
+            "HTML",
+            "Bootstrap",
+            "PHP"
+        ],
+        "description": "Application de gestion d'aliments.",
+        "href": "https://plainenglish.io/blog/react-open-link-in-new-tab"
+    }
+]

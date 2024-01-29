@@ -30,7 +30,7 @@ export default function Career() {
                 </div>
                 <div className='path'>
                 <div className='skill-title'>
-                    <h4></h4>
+                    <h4>Formation</h4>
                     <hr />
                     <div className='career-list'>
                         {CareerPathData.map(item => 
