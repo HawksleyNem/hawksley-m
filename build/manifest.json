@@ -1,0 +1,36 @@
+{
+  "index.css": {
+    "file": "assets/index-1f25f02f.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/stretch-pro.basic-d421d599.ttf",
+      "assets/stretch-pro.regular-142fcd2a.ttf",
+      "assets/Roboto-Light-c576c506.ttf",
+      "assets/Roboto-Medium-9d0d55a3.ttf"
+    ],
+    "css": [
+      "assets/index-1f25f02f.css"
+    ],
+    "file": "assets/index-85116fdc.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/fonts/Roboto/Roboto-Light.ttf": {
+    "file": "assets/Roboto-Light-c576c506.ttf",
+    "src": "src/assets/fonts/Roboto/Roboto-Light.ttf"
+  },
+  "src/assets/fonts/Roboto/Roboto-Medium.ttf": {
+    "file": "assets/Roboto-Medium-9d0d55a3.ttf",
+    "src": "src/assets/fonts/Roboto/Roboto-Medium.ttf"
+  },
+  "src/assets/fonts/Stretch_Pro/stretch-pro.basic.ttf": {
+    "file": "assets/stretch-pro.basic-d421d599.ttf",
+    "src": "src/assets/fonts/Stretch_Pro/stretch-pro.basic.ttf"
+  },
+  "src/assets/fonts/Stretch_Pro/stretch-pro.regular.ttf": {
+    "file": "assets/stretch-pro.regular-142fcd2a.ttf",
+    "src": "src/assets/fonts/Stretch_Pro/stretch-pro.regular.ttf"
+  }
+}
