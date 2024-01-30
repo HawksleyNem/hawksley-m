@@ -9,7 +9,7 @@ export default function Profile() {
             <h2>Pro<span className='sp-regular'>ff</span>il</h2>
           </div>
           <div className='profile-content'>
-            <div className='me'></div>
+            <img src="./img/me.jpg" alt="Me" className='me'/>
             <div className='info'>
               <p>
                 Suite à l'obtention de mon baccalauréat, j'ai décidé de m'orienter dans le domaine de l'<span className='highlight'>informatique</span>,

@@ -18,7 +18,8 @@
         height: 38rem;
         border-radius: 10px;
         background-color: rgba($color: white, $alpha: 0.05);
-        box-shadow: 0 0 50px rgba(66,27,131,0.2);
+        box-shadow: 0 0 60px rgba(66,27,131,0.5);
+        object-fit: cover;
     }
 
     .info {

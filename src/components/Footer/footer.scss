@@ -17,3 +17,25 @@
         }
     }
 }
+
+.mobile-nav {
+    display: none;
+
+    @media (max-width: 1000px) {
+        display: flex;
+        justify-content: center;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.10);
+        backdrop-filter: blur(7.5px);
+        border-top: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+    
+        ul {
+            width: 80%;
+            margin-block: 2rem;
+            @include dflex($direction: row, $justify: space-between, $align: center);
+        }
+    }
+
+}

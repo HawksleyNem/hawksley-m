@@ -1,4 +1,5 @@
 @import '../../sass/variables';
+@import '../../sass/mixins';
 
 header {
     position: fixed;
@@ -52,5 +53,42 @@ header {
             }
         }
         
+    }
+
+    .mobile-nav {
+        display: none;
+    }
+
+    @media (max-width: 1000px) {
+        width: 100%;
+        padding: 0;
+
+        nav {
+            height: 10%;
+            width: 100%;
+            border: none;
+            border-radius: 0;
+            border-bottom: 1px solid rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+            width: 100%;
+            display: flex;
+            justify-content: center;
+
+            .nav-center {
+                width: 100%;
+                ul {
+                    li + li {
+                        margin-left: 3rem;
+                    }
+                }
+            }
+
+            .nav-left, .nav-right {
+                display: none
+            }
+
+            .nav-item {
+                margin-block: 2rem;
+            }
+        }
     }
 }

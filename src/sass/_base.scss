@@ -35,6 +35,10 @@ body {
     width: 100%;
     // height: auto;
     background-color: map-get($map: $colors, $key: 'dark');
+
+    @media (max-width: 1000px) {
+        padding-bottom: 12vh;
+    }
 }
 
 #root {
@@ -64,6 +68,10 @@ h2 {
     font-family: 'SP_Basic';
     text-transform: uppercase;
     text-align: center;
+
+    @media (max-width: 1000px) {
+        font-size: 2rem;
+    }
 }
 
 .section-title {

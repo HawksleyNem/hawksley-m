@@ -42,4 +42,15 @@
     .career-card + .career-card {
         margin-top: 1em;
     }
+
+    @media (max-width: 1000px) {
+        .experience {
+            width: 80%;
+        }
+    
+        .path {
+            width: 80%;
+        }
+    }
+
 }
