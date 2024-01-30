@@ -1,14 +1,14 @@
 [
     {
-        "image": "/img/logos/git.svg",
+        "image": "./img/logos/git.svg",
         "name": "Git"
     },
     {
-        "image": "/img/logos/docker.svg",
+        "image": "./img/logos/docker.svg",
         "name": "Docker"
     },
     {
-        "image": "/img/logos/command-line.png",
+        "image": "./img/logos/command-line.png",
         "name": "Commandes"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
-        "image": "/img/logos/github.svg",
+        "image": "./img/logos/github.svg",
         "name": "Github"
     },
     {
-        "image": "/img/logos/trello.svg",
+        "image": "./img/logos/trello.svg",
         "name": "Trello"
     },
     {
-        "image": "/img/logos/notion.svg",
+        "image": "./img/logos/notion.svg",
         "name": "Notion"
     }
 ]

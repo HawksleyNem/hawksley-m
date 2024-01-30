@@ -1,6 +1,6 @@
 [
     {
-        "image": "/img/logos/vscode.svg",
+        "image": "./img/logos/vscode.svg",
         "name": "VS Code"
     },
     {
@@ -8,15 +8,15 @@
         "name": "Eclipse IDE"
     },
     {
-        "image": "/img/logos/figma.svg",
+        "image": "./img/logos/figma.svg",
         "name": "Figma"
     },
     {
-        "image": "/img/logos/adobexd.svg",
+        "image": "./img/logos/adobexd.svg",
         "name": "AdobeXD"
     },
     {
-        "image": "/img/logos/capcut.png",
+        "image": "./img/logos/capcut.png",
         "name": "CapCut"
     }
 ]

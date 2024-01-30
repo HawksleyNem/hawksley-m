@@ -1,54 +1,54 @@
 [
     {
-        "image": "/img/logos/html.svg",
+        "image": "./img/logos/html.svg",
         "name": "HTML"
     },
     {
-        "image": "/img/logos/css.svg",
+        "image": "./img/logos/css.svg",
         "name": "CSS"
     },
     {
-        "image": "/img/logos/scss.svg",
+        "image": "./img/logos/scss.svg",
         "name": "SCSS"
     },
     {
-        "image": "/img/logos/bootstrap.svg",
+        "image": "./img/logos/bootstrap.svg",
         "name": "Bootstrap"
     },
     {
-        "image": "/img/logos/javascript.svg",
+        "image": "./img/logos/javascript.svg",
         "name": "JavaScript"
     },
     {
-        "image": "/img/logos/vitejs.svg",
+        "image": "./img/logos/vitejs.svg",
         "name": "ViteJS"
     },
     {
-        "image": "/img/logos/react.svg",
+        "image": "./img/logos/react.svg",
         "name": "ReactJS"
     },
     {
-        "image": "/img/logos/vuejs.svg",
+        "image": "./img/logos/vuejs.svg",
         "name": "VueJS"
     },
     {
-        "image": "/img/logos/php.svg",
+        "image": "./img/logos/php.svg",
         "name": "PHP"
     },
     {
-        "image": "/img/logos/symfony.png",
+        "image": "./img/logos/symfony.png",
         "name": "Symfony"
     },
     {
-        "image": "/img/logos/python.svg",
+        "image": "./img/logos/python.svg",
         "name": "Python"
     },
     {
-        "image": "/img/logos/java.svg",
+        "image": "./img/logos/java.svg",
         "name": "Java"
     },
     {
-        "image": "/img/logos/mysql.svg",
+        "image": "./img/logos/mysql.svg",
         "name": "MySQL"
     }
 ]
