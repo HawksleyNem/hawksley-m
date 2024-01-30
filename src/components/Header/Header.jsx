@@ -8,7 +8,7 @@ export default function Header() {
       <nav>
         <div className='nav-item nav-left'>
           <ul>
-            <li><a href="./src/assets/img/CV Hawksley MOUQUET.png" className='btn' download="CV Hawksley MOUQUET.png">Télécharger CV</a></li>
+            <li><a href="./img/CV Hawksley MOUQUET.png" className='btn' download="CV Hawksley MOUQUET.png">Télécharger CV</a></li>
           </ul>
         </div>
         <div className='nav-item nav-center'>
