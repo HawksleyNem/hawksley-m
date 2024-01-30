@@ -1,22 +1,22 @@
 [
     {
-        "image": "./src/assets/img/logos/wordpress.svg",
+        "image": "/img/logos/wordpress.svg",
         "name": "Wordpress"
     },
     {
-        "image": "./src/assets/img/logos/woo-commerce.svg",
+        "image": "/img/logos/woo-commerce.svg",
         "name": "WooComerce"
     },
     {
-        "image": "./src/assets/img/logos/elementor.png",
+        "image": "/img/logos/elementor.png",
         "name": "Elementor"
     },
     {
-        "image": "./src/assets/img/logos/divi.png",
+        "image": "/img/logos/divi.png",
         "name": "Divi"
     },
     {
-        "image": "./src/assets/img/logos/prestashop.svg",
+        "image": "/img/logos/prestashop.svg",
         "name": "Prestashop"
     }
 ]

@@ -6,7 +6,7 @@ export default function HeroBanner() {
     <section className='hero-banner'>
       <div className='video-gradient'></div>
       <video playsinline autoPlay muted loop>
-        <source src="./src/assets/videos/campaign_sky2.mp4" type="video/mp4" />
+        <source src="/videos/campaign_sky2.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className='space-blur blur-purple blur-1'></div>

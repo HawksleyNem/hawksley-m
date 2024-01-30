@@ -1,7 +1,7 @@
 [
     {
         "title": "Les trouvailles de Thaïs",
-        "image" : "src/assets/img/projects/les-trouvailles-de-thais-preview.png",
+        "image" : "/img/projects/les-trouvailles-de-thais-preview.png",
         "alt": "Les trouvaille des Thaïs",
         "tags": [
             "Wordpress",
@@ -12,7 +12,7 @@
     },
     {
         "title": "French Doudou",
-        "image" : "src/assets/img/projects/french-doudou-preview.png",
+        "image" : "/img/projects/french-doudou-preview.png",
         "alt": "French Doudou",
         "tags": [
             "Prestashop",
@@ -23,7 +23,7 @@
     },
     {
         "title": "FluXML",
-        "image" : "src/assets/img/projects/fluxml-preview.png",
+        "image" : "/img/projects/fluxml-preview.png",
         "alt": "FluXML",
         "tags": [
             "HTML",
@@ -35,7 +35,7 @@
     },
     {
         "title": "Custom Icon",
-        "image" : "src/assets/img/projects/custom-icon-preview.png",
+        "image" : "/img/projects/custom-icon-preview.png",
         "alt": "Custom Icon",
         "tags": [
             "HTML",
@@ -47,7 +47,7 @@
     },
     {
         "title": "Timer",
-        "image" : "src/assets/img/projects/timer-js-preview.png",
+        "image" : "/img/projects/timer-js-preview.png",
         "alt": "Timer",
         "tags": [
             "HTML",
@@ -59,7 +59,7 @@
     },
     {
         "title": "Temperature converter",
-        "image" : "src/assets/img/projects/temperature-converter-preview.png",
+        "image" : "/img/projects/temperature-converter-preview.png",
         "alt": "Temperature Converter",
         "tags": [
             "HTML",
@@ -71,7 +71,7 @@
     },
     {
         "title": "Sakila",
-        "image" : "src/assets/img/projects/sakila-preview.jpg",
+        "image" : "/img/projects/sakila-preview.jpg",
         "alt": "Sakila",
         "tags": [
             "HTML",
@@ -83,7 +83,7 @@
     },
     {
         "title": "Bugdet",
-        "image" : "src/assets/img/projects/budget-preview.jpg",
+        "image" : "/img/projects/budget-preview.jpg",
         "alt": "Budget",
         "tags": [
             "HTML",
@@ -95,7 +95,7 @@
     },
     {
         "title": "Rick & Morty",
-        "image" : "src/assets/img/projects/rick-and-morty-preview.png",
+        "image" : "/img/projects/rick-and-morty-preview.png",
         "alt": "Rick and Morty",
         "tags": [
             "React",

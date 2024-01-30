@@ -1,22 +1,22 @@
 [
     {
-        "image": "./src/assets/img/logos/vscode.svg",
+        "image": "/img/logos/vscode.svg",
         "name": "VS Code"
     },
     {
-        "image": "./src/assets/img/logos/eclipse.svg",
+        "image": "/img/logos/eclipse.svg",
         "name": "Eclipse IDE"
     },
     {
-        "image": "./src/assets/img/logos/figma.svg",
+        "image": "/img/logos/figma.svg",
         "name": "Figma"
     },
     {
-        "image": "./src/assets/img/logos/adobexd.svg",
+        "image": "/img/logos/adobexd.svg",
         "name": "AdobeXD"
     },
     {
-        "image": "./src/assets/img/logos/capcut.png",
+        "image": "/img/logos/capcut.png",
         "name": "CapCut"
     }
 ]
