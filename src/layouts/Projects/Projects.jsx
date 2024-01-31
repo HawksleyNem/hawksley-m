@@ -3,6 +3,7 @@ import Button from '../../components/Button/Button'
 import './projects.scss';
 import FullstackData from '../../json/fullstack_projects.json'
 import DesignData from '../../json/design_projects.json'
+import NoRedirectData from '../../json/no_redirect_projects.json'
 
 export default function Projects() {
   return (
@@ -14,6 +15,22 @@ export default function Projects() {
               {/* <pre><code className='fullstack-project-title'><span className='vs-gray'>&lt;</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span>Fullstack<span className='vs-gray'>&lt;/</span><span className='vs-blue'>p</span><span className='vs-gray'>&gt;</span></code></pre> */}
             </div>
               <div className='projects-grid'>
+            {NoRedirectData.map(item => 
+                <div key={item.title} className='project'>
+                  <div>
+                    <img className='project__image' src={item.image} alt="" />
+                  </div>
+                  <div className='project__info'>
+                    <h3 className='project__title'>{item.title}</h3>
+                    <div className='project__tags'>
+                      {item.tags.map(tag =>
+                        <div className='project__tag'><p className='project__tag__text'>{tag}</p></div>
+                      )}
+                    </div>
+                    <p className='project__description'>{item.description}</p>
+                  </div>
+                </div>
+              )}
               {FullstackData.map(item => 
                 <div key={item.title} className='project'>
                   <div>

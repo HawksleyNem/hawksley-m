@@ -1,27 +1,5 @@
 [
     {
-        "title": "Les trouvailles de Thaïs",
-        "image" : "./img/projects/les-trouvailles-de-thais-preview.png",
-        "alt": "Les trouvaille des Thaïs",
-        "tags": [
-            "Wordpress",
-            "Figma"
-        ],
-        "description": "Boutique de prêt à porter amiénoise.",
-        "href": "https://les-trouvailles-de-thais.les-vielles-charrettes-tm.fr/boutique/"
-    },
-    {
-        "title": "French Doudou",
-        "image" : "./img/projects/french-doudou-preview.png",
-        "alt": "French Doudou",
-        "tags": [
-            "Prestashop",
-            "JS"
-        ],
-        "description": "Boutique fictive de peluches.",
-        "href": ""
-    },
-    {
         "title": "FluXML",
         "image" : "./img/projects/fluxml-preview.png",
         "alt": "FluXML",

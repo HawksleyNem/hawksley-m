@@ -6,7 +6,7 @@
         @include dflex($direction: row, $justify: start, $align: center);
         height: 6rem;
         padding-inline: 1.5rem;
-        border-block: 1px solid rgba($color: map-get($map: $colors, $key: 'white'), $alpha: 0.15);
+        border-top: 1px solid rgba($color: map-get($map: $colors, $key: 'white'), $alpha: 0.15);
         font-family: 'SP_Basic';
         font-size: 3rem;
         text-transform: uppercase;
@@ -14,6 +14,11 @@
         &:hover {
             color: map-get($map: $colors, $key: 'dark');
             background-color: map-get($map: $colors, $key: 'white');
+        }
+
+        @media (max-width: 1000px) {
+            font-size: 1.2rem;
+            height: 5rem;
         }
     }
 }
