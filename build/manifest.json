@@ -1,6 +1,6 @@
 {
   "index.css": {
-    "file": "assets/index-155e0338.css",
+    "file": "assets/index-684f618e.css",
     "src": "index.css"
   },
   "index.html": {
@@ -11,9 +11,9 @@
       "assets/Roboto-Medium-9d0d55a3.ttf"
     ],
     "css": [
-      "assets/index-155e0338.css"
+      "assets/index-684f618e.css"
     ],
-    "file": "assets/index-8e60af07.js",
+    "file": "assets/index-c7049260.js",
     "isEntry": true,
     "src": "index.html"
   },

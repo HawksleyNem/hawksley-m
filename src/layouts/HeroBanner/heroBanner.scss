@@ -30,10 +30,18 @@ video {
     width: 100%;
     z-index: -2;
     opacity: 100%;
+
+    @media (max-width: 1000px) {
+        display: none;
+    }
 }
 
 .upper-title {
     font-family: 'SP_Basic';
     text-transform: uppercase;
     font-size: 1.8rem;
+
+    @media (max-width: 1000px) {
+        font-size: 1rem;
+    }
 }

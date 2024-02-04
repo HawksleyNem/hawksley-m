@@ -81,5 +81,16 @@
         ],
         "description": "Répertoire des personnages de Rick & Morty.",
         "href": "https://github.com/HawksleyNem/rick-and-morty"
+    },
+    {
+        "title": "Suki Suki Shop",
+        "image" : "./img/projects/suki-suki-shop-preview.png",
+        "alt": "Suki Suki Shop",
+        "tags": [
+            "Symfony",
+            "SCSS"
+        ],
+        "description": "Site de présentation d'entreprise fictive.",
+        "href": "https://suki-suki-shop.onrender.com/"
     }
 ]

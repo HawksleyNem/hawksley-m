@@ -62,6 +62,10 @@ h1 {
     font-family: 'SP_Basic';
     text-transform: uppercase;
     margin-bottom: 1rem;
+
+    @media (max-width: 1000px) {
+        font-size: 2rem;
+    }
 }
 
 h2 {
@@ -143,6 +147,10 @@ p {
     top: 5%;
     transform: rotate(12.041deg);
     border-radius: 52rem;
+
+    @media (max-width: 1000px) {
+        display: none;
+    }
 }
 
 .blur-2 {
@@ -152,6 +160,10 @@ p {
     top: 8%;
     transform: rotate(-19.401deg);
     border-radius: 69rem;
+
+    @media (max-width: 1000px) {
+        display: none;
+    }
 }
 
 // COLORS
@@ -162,4 +174,8 @@ p {
 
 .vs-gray {
     color: map-get($map: $colors, $key: 'vs-gray');
+}
+
+img {
+    max-width: 100%;
 }
