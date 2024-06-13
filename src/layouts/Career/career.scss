@@ -37,6 +37,14 @@
         &__desc, &__date {
             color: rgba(map-get($map: $colors, $key: 'white'), $alpha: 0.5);
         }
+
+        &__desc {
+            width: 90%;
+        }
+
+        &__date {
+            width: 20%;
+        }
     }
 
     .career-card + .career-card {

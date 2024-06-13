@@ -20,12 +20,20 @@
         "name": "JavaScript"
     },
     {
+        "image": "./img/logos/typescript.svg",
+        "name": "TypeScript"
+    },
+    {
         "image": "./img/logos/vitejs.svg",
         "name": "ViteJS"
     },
     {
         "image": "./img/logos/react.svg",
         "name": "ReactJS"
+    },
+    {
+        "image": "./img/logos/react.svg",
+        "name": "React Native"
     },
     {
         "image": "./img/logos/vuejs.svg",
