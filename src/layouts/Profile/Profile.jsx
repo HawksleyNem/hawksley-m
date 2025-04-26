@@ -23,7 +23,7 @@ export default function Profile() {
                 L'idée d'intégrer une équipe afin de réaliser des <span className='highlight'>projets</span> divers et variés m'enthousiasme fortement.
               </p>
               <p><span className='highlight'>Âge</span> - 20 ans <br />
-              <span className='highlight'>Adresse</span> -  15 rue des Tavernes, Villers-Bretonneux (80800)<br />
+              <span className='highlight'>Localisation</span> -  Villers-Bretonneux (80800), Amiens (80000)<br />
               <span className='highlight'>Hobbies</span> - Animés, anime artworks, mangas, jeux-vidéo, écrire des histoires</p>
             </div>
           </div>

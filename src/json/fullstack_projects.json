@@ -56,7 +56,7 @@
             "CSS",
             "PHP"
         ],
-        "description": "Répertoire de films et acteurs.",
+        "description": "Création d'un répertoire de films et acteurs.",
         "href": "https://github.com/HawksleyNem/Sakila"
     },
     {
@@ -68,7 +68,7 @@
             "CSS",
             "PHP"
         ],
-        "description": "Application de gestion de BDD.",
+        "description": "Création d'une application de gestion de BDD.",
         "href": "https://github.com/HawksleyNem/budget"
     },
     {
@@ -90,7 +90,7 @@
             "Symfony",
             "SCSS"
         ],
-        "description": "Site de présentation d'entreprise fictive.",
+        "description": "Céation d'un site de présentation d'entreprise fictive.",
         "href": "https://suki-suki-shop.onrender.com/"
     }
 ]

@@ -31,5 +31,17 @@
         ],
         "description": "Application de gestion pour la FFSU.",
         "href": ""
+    },
+    {
+        "title": "ForgeMe",
+        "image" : "./img/projects/forgeme-preview.png",
+        "alt": "ForgeMe",
+        "tags": [
+            "React Native",
+            "SCSS",
+            "SQLite"
+        ],
+        "description": "Partification au projet ForgeMe, application mobile.",
+        "href": ""
     }
 ]
