@@ -8,6 +8,10 @@
         "name": "Eclipse IDE"
     },
     {
+        "image": "./img/logos/android-studio.png",
+        "name": "Android Studio"
+    },
+    {
         "image": "./img/logos/figma.svg",
         "name": "Figma"
     },
