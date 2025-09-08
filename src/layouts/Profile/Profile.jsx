@@ -19,12 +19,12 @@ export default function Profile() {
                 J'ai décidé par la suite d'intégrer le <span className='highlight'>Bachelor</span> Web Design UI - UX & Développement Web à <span className='highlight'>La Manu</span>,
                 école supérieure des métiers du numérique, à Amiens. Dans ce Bachelor, en 1ère année, j'ai exercé à la fois le développement <span className='highlight'>Front-end</span> et <span className='highlight'>Back-end</span>,
                 ainsi que le <span className='highlight'>design</span>.<br /><br />
-                Actuellement en 2e année, je suis <span className='highlight'>passionné</span> par tous ces domaines, avec une préférence pour le développement web.
+                Actuellement en 3e année, je suis <span className='highlight'>passionné</span> par tous ces domaines, avec une préférence pour le développement web.
                 L'idée d'intégrer une équipe afin de réaliser des <span className='highlight'>projets</span> divers et variés m'enthousiasme fortement.
               </p>
-              <p><span className='highlight'>Âge</span> - 20 ans <br />
+              <p><span className='highlight'>Âge</span> - 21 ans <br />
               <span className='highlight'>Localisation</span> -  Villers-Bretonneux (80800), Amiens (80000)<br />
-              <span className='highlight'>Hobbies</span> - Animés, anime artworks, mangas, jeux-vidéo, écrire des histoires</p>
+              <span className='highlight'>Hobbies</span> - Callisthénie, musculation, rédaction d'histoires, animes, jeux-vidéo.</p>
             </div>
           </div>
         </section>
