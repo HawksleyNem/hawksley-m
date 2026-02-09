@@ -22,7 +22,7 @@ export default function Profile() {
                 Actuellement en 3e année, je suis <span className='highlight'>passionné</span> par tous ces domaines, avec une préférence pour le développement web.
                 L'idée d'intégrer une équipe afin de réaliser des <span className='highlight'>projets</span> divers et variés m'enthousiasme fortement.
               </p>
-              <p><span className='highlight'>Âge</span> - 21 ans <br />
+              <p><span className='highlight'>Âge</span> - 22 ans <br />
               <span className='highlight'>Localisation</span> -  Villers-Bretonneux (80800), Amiens (80000)<br />
               <span className='highlight'>Hobbies</span> - Callisthénie, musculation, rédaction d'histoires, animes, jeux-vidéo.</p>
             </div>
